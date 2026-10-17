@@ -1,0 +1,6 @@
+{
+  "name": "NovaClip AI Video Studio",
+  "description": "Precision AI video generation studio with real-time multi-track timeline, intelligent script-to-storyboard, AI voiceovers, and dynamic word-synced subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
